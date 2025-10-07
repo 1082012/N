@@ -1,4 +1,18 @@
 {
-  "username": "admin",
-  "password": "123"
+  "admin": {
+    "password": "123456",
+    "role": "admin"
+  },
+  "resseller": {
+    "password": "passwordreseller",
+    "role": "resseller"
+  },
+  "gustzy": {
+    "password": "tololyangrusuh",
+    "role": "admin"
+  },
+  "user_biasa": {
+    "password": "userpass",
+    "role": "resseller"
+  }
 }
