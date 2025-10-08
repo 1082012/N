@@ -5,7 +5,7 @@
   },
   "yazz": {
     "password": "yazz4031",
-    "role": "resseller"
+    "role": "admin"
   },
   "gustzy": {
     "password": "tololyangrusuh",
