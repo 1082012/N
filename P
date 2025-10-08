@@ -3,8 +3,8 @@
     "password": "123456",
     "role": "admin"
   },
-  "resseller": {
-    "password": "passwordreseller",
+  "yazz": {
+    "password": "yazz4031",
     "role": "resseller"
   },
   "gustzy": {
